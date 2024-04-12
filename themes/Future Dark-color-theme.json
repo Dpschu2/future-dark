@@ -1,6 +1,6 @@
 {
 	"name": "Future Dark",
-	"colors": {
+	"colors": { 
 		"activityBar.background": "#1b1b1b",
 		"activityBarBadge.background": "#df00fe",
 		"breadcrumb.foreground": "#546e7a",
