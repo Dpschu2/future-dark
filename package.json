@@ -1,0 +1,21 @@
+{
+  "name": "future-dark",
+  "displayName": "Future Dark",
+  "description": "Futuristic Dark vscode color theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.88.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Future Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Future Dark-color-theme.json"
+      }
+    ]
+  }
+}
