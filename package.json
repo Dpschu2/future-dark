@@ -2,6 +2,8 @@
   "name": "future-dark",
   "displayName": "Future Dark",
   "description": "Futuristic Dark vscode color theme",
+  "publisher": "deans4",
+  "icon": "icon.png",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.88.0"
@@ -17,5 +19,10 @@
         "path": "./themes/Future Dark-color-theme.json"
       }
     ]
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Dpschu2/future-dark.git"
+  },
+  "homepage": "https://github.com/Dpschu2/future-dark/blob/master/README.md"
 }
